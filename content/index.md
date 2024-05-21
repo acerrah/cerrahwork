@@ -10,12 +10,16 @@ It's not **fancy**, just me **jotting down** what I've **figured out**, like **s
 
 If you're **into learning new stuff**, **tinkering with tech**, or just **enjoy good photos**, you're in the **right place**!
 
+## My Projects
+
+You can find my latest projects on my [GitHub](github.com/acerrah) page. Also you can check my [[cv]] for more information about me.
+
 ## Contents In Detail
 
 - [[Computer Science/]]
 - [[Engineering/]]
 - [[Network/]]
 - [[Gallery/]]
+- [My CV](cv)
 - [[Misc/]]
 - [[Useful Links, Softwares and Sources]]
-- [My CV](cv)
