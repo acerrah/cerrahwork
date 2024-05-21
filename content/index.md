@@ -18,3 +18,4 @@ If you're **into learning new stuff**, **tinkering with tech**, or just **enjoy 
 - [[Gallery/]]
 - [[Misc/]]
 - [[Useful Links, Softwares and Sources]]
+- [My CV](cv)
