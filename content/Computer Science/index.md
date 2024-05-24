@@ -10,6 +10,7 @@ Everything related to computer science, programming, operating systems, and so o
 - [[thread]]
 - [[signals]]
 - [[scp|copy files over network]]
+- [[powershell]]
 - [[rdp|remote desktop protocol]]
 - [[sql]]
 - [[redis]]
