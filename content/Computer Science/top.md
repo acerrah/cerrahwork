@@ -62,8 +62,8 @@ Below the summary, `top` displays a list of running processes:
 
 ```bash
 PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-711 asenol    20   0   15396   8916   7372 S   0.0   0.4   0:00.16 systemd
-712 asenol    20   0  101664   3032     24 S   0.0   0.1   0:00.00 (sd-pam)
+711 cerrah    20   0   15396   8916   7372 S   0.0   0.4   0:00.16 systemd
+712 cerrah    20   0  101664   3032     24 S   0.0   0.1   0:00.00 (sd-pam)
 ```
 
 - **PID**: Process ID.
