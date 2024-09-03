@@ -6,6 +6,7 @@ Everything related to computer science, programming, operating systems, and so o
 
 - [[Computer Science/42/]]
 - [[Data Structures]]
+- [[server monitor script]]
 - [[concurrency]]
 - [[thread]]
 - [[signals]]
@@ -18,3 +19,4 @@ Everything related to computer science, programming, operating systems, and so o
 - [[sql]]
 - [[redis]]
 - [[mongodb]]
+
